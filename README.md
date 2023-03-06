@@ -1,3 +1,5 @@
+<img width="1292" alt="Screen Shot 2023-03-05 at 8 07 53 PM" src="https://user-images.githubusercontent.com/60116609/223004120-0f973de9-a37a-40f5-a026-0aa5586abaf1.png">
+
 # E-Commerce Website
 ## Getting Started with Create React App
 
