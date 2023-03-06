@@ -1,7 +1,9 @@
+# E-Commerce Website
+
 <img width="1271" alt="Screen Shot 2023-03-05 at 8 18 47 PM" src="https://user-images.githubusercontent.com/60116609/223004710-9d9f682e-f9a4-4e29-9cda-36fe7e36ff8b.png">
 
 
-# E-Commerce Website
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
